@@ -1,0 +1,417 @@
+canonical_identifier: bkk:krp/KR3eo035/v1
+canonical_location: https://kanripo.org/bkk/KR3eo035/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 動功按摩秘訣
+  identifiers:
+    krp: KR3eo035
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo035.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eo035_000.yaml, hash: 'sha256:0845d63dafa601db209b5aef6963a55b04f3de77e098cd60f12e9818be9d7fc7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eo035_000.markers.yaml, hash: 'sha256:77be722998db40206b34a5de354abbfe208f60a7a1991f6da9ed7c861d88f507'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 312
+  label: 癱瘓諸穴道
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d3.h1s1
+    span:
+    - body
+    - 312
+    - 847
+  label: 按摩勞傷諸穴
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d4.h1s1
+    span:
+    - body
+    - 847
+    - 1002
+  label: 膨脹症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d5.h1s1
+    span:
+    - body
+    - 1002
+    - 1075
+  label: 膈噎症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d6.h1s1
+    span:
+    - body
+    - 1075
+    - 1320
+  label: 眼目症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d7.h1s1
+    span:
+    - body
+    - 1320
+    - 1518
+  label: 耳症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d8.h1s1
+    span:
+    - body
+    - 1518
+    - 1750
+  label: 咽喉口齒症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d9.h1s1
+    span:
+    - body
+    - 1750
+    - 2195
+  label: 肩背指症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d10.h1s1
+    span:
+    - body
+    - 2195
+    - 2613
+  label: 心脾氣症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d11.h1s1
+    span:
+    - body
+    - 2613
+    - 3763
+  label: 腰腎足膝症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d12.h1s1
+    span:
+    - body
+    - 3763
+    - 3970
+  label: 傷寒症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d13.h1s1
+    span:
+    - body
+    - 3970
+    - 4383
+  label: 痰火哮喘症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d14.h1s1
+    span:
+    - body
+    - 4383
+    - 4735
+  label: 頭痛症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d15.h1s1
+    span:
+    - body
+    - 4735
+    - 4981
+  label: 偏疝及婦帶下症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d16.h1s1
+    span:
+    - body
+    - 4981
+    - 5239
+  label: 癭癧痔漏症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d17.h1s1
+    span:
+    - body
+    - 5239
+    - 5734
+  label: 男女諸雜症皆治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d18.h1s1
+    span:
+    - body
+    - 5734
+    - 5938
+  label: 頭疼症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d19.h1s1
+    span:
+    - body
+    - 5938
+    - 6429
+  label: 眼目症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d20.h1s1
+    span:
+    - body
+    - 6429
+    - 6531
+  label: 耳症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d21.h1s1
+    span:
+    - body
+    - 6531
+    - 6571
+  label: 鼻症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d22.h1s1
+    span:
+    - body
+    - 6571
+    - 6634
+  label: 牙症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d23.h1s1
+    span:
+    - body
+    - 6634
+    - 6878
+  label: 胸膈氣症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d24.h1s1
+    span:
+    - body
+    - 6878
+    - 7029
+  label: 心症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d25.h1s1
+    span:
+    - body
+    - 7029
+    - 7588
+  label: 腰背疼痛症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d26.h1s1
+    span:
+    - body
+    - 7588
+    - 7939
+  label: 脾胃肚腹症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d27.h1s1
+    span:
+    - body
+    - 7939
+    - 8279
+  label: 癆症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d28.h1s1
+    span:
+    - body
+    - 8279
+    - 8452
+  label: 痰火
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d29.h1s1
+    span:
+    - body
+    - 8452
+    - 8700
+  label: 傷寒傷風症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d30.h1s1
+    span:
+    - body
+    - 8700
+    - 8748
+  label: 痢症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d31.h1s1
+    span:
+    - body
+    - 8748
+    - 8779
+  label: 濕症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d32.h1s1
+    span:
+    - body
+    - 8779
+    - 8989
+  label: 瘡疽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d33.h1s1
+    span:
+    - body
+    - 8989
+    - 9128
+  label: 腸氣症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d34.h1s1
+    span:
+    - body
+    - 9128
+    - 9192
+  label: 絞腸痧
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d35.h1s1
+    span:
+    - body
+    - 9192
+    - 9277
+  label: 疝墜
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d36.h1s1
+    span:
+    - body
+    - 9277
+    - 9358
+  label: 大小便
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d37.h1s1
+    span:
+    - body
+    - 9358
+    - 9627
+  label: 癱瘓
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d38.h1s1
+    span:
+    - body
+    - 9627
+    - 10744
+  label: 辨小兒諸症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d39.h1s1
+    span:
+    - body
+    - 10744
+    - 12775
+  label: 手訣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo035_jc_000-d40.h1s1
+    span:
+    - body
+    - 12775
+    - 14121
+  label: 小兒諸驚推揉法
+  type: section
+  level: 1
+hash: sha256:6f7e47f10f83ce4135f5f3f137ea7ce6dc67ddd19937bbee5348ea92d00cd9b7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
