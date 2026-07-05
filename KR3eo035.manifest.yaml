@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo035_000.yaml, hash: 'sha256:0845d63dafa601db209b5aef6963a55b04f3de77e098cd60f12e9818be9d7fc7'}
+  - {seq: 0, filename: KR3eo035_000.yaml, hash: 'sha256:9c0d5fee36721cb12d91700e98c6112bbb7b300de4b1200e05bfbceaeffe3aa4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo035_000.markers.yaml, hash: 'sha256:77be722998db40206b34a5de354abbfe208f60a7a1991f6da9ed7c861d88f507'}
+  - {seq: 0, role: markers, filename: assets/KR3eo035_000.markers.yaml, hash: 'sha256:2d9fcbc0c8459c5159d844af90197bd0b562318745bc61a327a0ea7d2459796f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -411,7 +411,4 @@ table_of_contents:
   label: 小兒諸驚推揉法
   type: section
   level: 1
-hash: sha256:6f7e47f10f83ce4135f5f3f137ea7ce6dc67ddd19937bbee5348ea92d00cd9b7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2ab4e366a6e7f2453a37726d4a72ab81b6eb0501d02194e324d2323fab3cdb1d
