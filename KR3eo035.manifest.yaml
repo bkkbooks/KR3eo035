@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eo035/v1
 canonical_location: https://kanripo.org/bkk/KR3eo035/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 動功按摩秘訣
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo035_000.yaml, hash: 'sha256:9c0d5fee36721cb12d91700e98c6112bbb7b300de4b1200e05bfbceaeffe3aa4'}
+  - {seq: 0, filename: KR3eo035_000.yaml, hash: 'sha256:47c63e5a165f124eeb613edfd8eb634829c19116499faab4d2250d0f179c71b2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo035_000.markers.yaml, hash: 'sha256:2d9fcbc0c8459c5159d844af90197bd0b562318745bc61a327a0ea7d2459796f'}
+  - {seq: 0, role: markers, filename: assets/KR3eo035_000.markers.yaml, hash: 'sha256:425d033d897557315cef5e8da524c9e4db60a6cbd7dfb8c48107672d6ccadf51'}
 table_of_contents:
 - ref:
     seq: 0
@@ -411,4 +411,7 @@ table_of_contents:
   label: 小兒諸驚推揉法
   type: section
   level: 1
-hash: sha256:2ab4e366a6e7f2453a37726d4a72ab81b6eb0501d02194e324d2323fab3cdb1d
+hash: sha256:e85e753001906893360c3e0db508a7fada49c6bad6f8a9be20ec7392fee9c4c6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
